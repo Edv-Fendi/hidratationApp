@@ -26,7 +26,7 @@ Aplicativo Flutter para controle de hidratação com lembretes automáticos e me
 
 | Tela Inicial | Configurações | Notificações | 
 |--------------|---------------|
-| ![Home](assets/home.png) | ![Settings](assets/settings.png) | ![Notificações](assets/notifications.png) |
+| ![Home](./assets/home.png) | ![Settings](./assets/settings.png) | ![Notificações](./assets/notifications.png) |
 ---
 
 ## 🛠 Instalação
