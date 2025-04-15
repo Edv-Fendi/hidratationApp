@@ -31,7 +31,7 @@ Aplicativo Flutter para controle de hidratação com lembretes automáticos e me
 
 ## 🛠 Instalação
 
-git clone https://github.com/SEU_USUARIO/hydration_reminder_app.git
+git clone [https://github.com/SEU_USUARIO/hydration_reminder_app.git](https://github.com/Edv-Fendi/hidratationApp.git)
 cd hydration_reminder_app
 flutter pub get
 flutter run 
