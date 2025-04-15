@@ -23,7 +23,6 @@ Aplicativo Flutter para controle de hidratação com lembretes automáticos e me
 ---
 
 ## 📸 Capturas de Tela
-## 📸 Capturas de Tela
 
 ### 🏠 Tela Inicial (Home)
 Visualize sua meta diária, consumo atual e adicione facilmente 100ml, 200ml ou 500ml de água.
