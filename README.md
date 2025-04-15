@@ -23,15 +23,32 @@ Aplicativo Flutter para controle de hidratação com lembretes automáticos e me
 ---
 
 ## 📸 Capturas de Tela
+## 📸 Capturas de Tela
 
-| Tela Inicial | Configurações | Notificações | 
-|--------------|---------------|
-| ![Home](./assets/home.png) | ![Settings](./assets/settings.png) | ![Notificações](./assets/notifications.png) |
+### 🏠 Tela Inicial (Home)
+Visualize sua meta diária, consumo atual e adicione facilmente 100ml, 200ml ou 500ml de água.
+
+<img src="https://raw.githubusercontent.com/Edv-Fendi/hidratationApp/main/lib/assets/home.png" width="300"/>
+
 ---
+
+### ⚙️ Tela de Configurações
+Defina sua meta diária e escolha o intervalo de lembretes para manter a hidratação em dia.
+
+<img src="https://raw.githubusercontent.com/Edv-Fendi/hidratationApp/main/lib/assets/settings.png" width="300"/>
+
+---
+
+### 🔔 Exemplo de Notificação
+Receba lembretes automáticos com base na sua meta e no quanto já foi ingerido.
+
+<img src="https://raw.githubusercontent.com/Edv-Fendi/hidratationApp/main/lib/assets/notification.png" width="300"/>
+
+
 
 ## 🛠 Instalação
 
-git clone [https://github.com/SEU_USUARIO/hydration_reminder_app.git](https://github.com/Edv-Fendi/hidratationApp.git)
+git clone (https://github.com/Edv-Fendi/hidratationApp.git)
 cd hydration_reminder_app
 flutter pub get
 flutter run 
