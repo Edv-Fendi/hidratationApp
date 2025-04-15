@@ -48,7 +48,8 @@ Receba lembretes automáticos com base na sua meta e no quanto já foi ingerido.
 
 ## 🛠 Instalação
 
-git clone (https://github.com/Edv-Fendi/hidratationApp.git)
+```bash
+git clone https://github.com/Edv-Fendi/hidratationApp.git
 cd hydration_reminder_app
 flutter pub get
-flutter run 
+flutter run
