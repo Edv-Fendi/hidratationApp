@@ -22,6 +22,51 @@ Aplicativo Flutter para controle de hidratação com lembretes automáticos e me
 
 ---
 
+## 🛠 Instalação
+
+```bash
+git clone https://github.com/Edv-Fendi/hidratationApp.git
+cd hydration_reminder_app
+flutter pub get
+flutter run
+```
+
+
+### Pré-requisitos
+
+1. Certifique-se de que o Flutter está instalado em sua máquina. Caso não esteja, siga as instruções de instalação no site oficial: [Flutter Installation](https://docs.flutter.dev/get-started/install).
+2. Configure o ambiente Android (instale o Android Studio e configure o SDK).
+
+### Passos para Gerar o APK
+
+1. **Abra o terminal na raiz do projeto e utilize o comando**:
+
+   ```bash
+   cd hidratationApp
+   ```
+
+2. **Verifique se todas as dependências estão instaladas**:
+
+   ```bash
+   flutter pub get
+   ```
+
+3. **Para compilar o aplicativo para ANDROID**:
+   Siga o comando abaixo para gerar o APK:
+
+   ```bash
+   flutter build apk --release
+   ```
+
+4. ** O APK será gerado no diretório:**:
+
+   ```
+   build/app/outputs/flutter-apk/app-release.apk
+   ```
+
+5. **Teste o APK**:
+   Transfira o arquivo APK gerado para um dispositivo Android e instale-o para testar.
+
 ## 📸 Capturas de Tela
 
 ### 🏠 Tela Inicial (Home)
@@ -45,10 +90,4 @@ Receba lembretes automáticos com base na sua meta e no quanto já foi ingerido.
 
 
 
-## 🛠 Instalação
 
-```bash
-git clone https://github.com/Edv-Fendi/hidratationApp.git
-cd hydration_reminder_app
-flutter pub get
-flutter run
